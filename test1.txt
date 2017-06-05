@@ -2,9 +2,5 @@ This is test1.
 
 I made some conflicting changes.
 Made some changes from GitHub.
-def feautures here
 
-changing some stuff
-
-adding new stuff
-more def stuff
+Why not some more changes
